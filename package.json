@@ -1,0 +1,19 @@
+{
+	"name": "Ocebots Support Bot",
+	"version": "1.0",
+	"description": "A simple support bot to help out in our Discord server to reference docs and issues easily, and many more functions.",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node ."
+	},
+	"dependencies": {
+		"discord.js": "^14.7.1",
+		"dotenv": "^16.0.3"
+	},
+	"keywords": [
+		"bot"
+	],
+	"author": "Abby Shanker",
+	"license": "LICENSE"
+}
