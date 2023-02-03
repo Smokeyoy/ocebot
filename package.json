@@ -1,5 +1,5 @@
 {
-	"name": "Ocebots Support Bot",
+	"name": "Ocebots Support Rebbe",
 	"version": "1.0",
 	"description": "A simple support bot to help out in our Discord server to reference docs and issues easily, and many more functions.",
 	"main": "app.js",
