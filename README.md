@@ -1,3 +1,3 @@
 # Ocebots Support Bot
 
-More details coming
+This bot was made by Yosi and Smokey helped a little
